@@ -1,0 +1,26 @@
+body {
+}
+* {
+  box-sizing: border-box;
+}
+ul {
+  max-width: 1000px;
+  padding: 0;
+  margin: auto;
+  list-style: none;
+  border-bottom: 1px solid #f1f1f1;
+  position: relative;
+}
+
+li {
+  display: inline-block;
+  margin: 0 15px;
+  padding: 5px 15px;
+  cursor: pointer;
+  /* border: 1px solid; */
+}
+li:hover {
+  color: red;
+  position: absolute;
+  width: ;
+}
